@@ -27,7 +27,7 @@ author:
 description: >- # this means to ignore newlines until "baseurl:"
   @vivekvayer's minimalistic, self-hosted photo stream.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://vivek-ayer-2016.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vivekvayer
 github_username: vivekvayer
 instagram_username: vivek.ayer

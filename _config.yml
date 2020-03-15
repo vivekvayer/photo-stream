@@ -21,16 +21,16 @@
 title: maxvoltar.photo
 email: tim@maxvoltar.be
 author:
-  name: Tim Van Damme
-  email: tim@maxvoltar.be #optional
-  website: https://maxvoltar.com
+  name: Vivek Venkat Ayer
+  email: vivek_ayer@hotmail.com #optional
+  website: https://vivek-ayer-2016.netlify.com/
 description: >- # this means to ignore newlines until "baseurl:"
   @maxvoltar's minimalistic, self-hosted photo stream.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://maxvoltar.photo/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: maxvoltar
+url: "https://vivek-ayer-2016.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: vivekvayer
 github_username: maxvoltar
-instagram_username: maxvoltar
+instagram_username: vivek.ayer
 
 # Build settings
 plugins:

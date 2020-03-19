@@ -2,7 +2,13 @@
 
 # Photo Stream
 
-Photo stream is a simpler home for your photos by [@maxvoltar](https://twitter.com/maxvoltar) and [friends](#credits). Easy to use, self hosted, no tracking, just photos.
+Photo stream is a home for your photos. Simple. 
+
+The tool is developed by [@maxvoltar](https://twitter.com/maxvoltar) and [friends](#credits). 
+
+You upload photos to Github - this is where the photos are stored. 
+
+You choose the company to host your site. In my case I chose 
 
 - [Examples](#examples)
 - [Features](#features)

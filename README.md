@@ -36,7 +36,7 @@
 5. In your build & deploy settings, set "Build command" to `jekyll build` and "Publish directory" to `_site/`.
 6. Thats it. You do not need to follow anything further below!
 
-### the techy way
+### The techy way
 
 Check to see if you have Ruby installed (`ruby -v`). If you don't, you can follow the installation instructions provided [here](https://www.ruby-lang.org/en/documentation/installation/).
 
@@ -59,8 +59,11 @@ brew install glib vips
 
 ## How to use
 
-Put your photos (not resized) in the `photos/originals` directory. Optionally you can give them a name, which will appear as the title of the photo page and in the RSS feed.
+### Basic use
+- Add a photo (not resized) in the `photos/originals` directory.
+- Optionally name, which will appear as the title of the photo page and in the RSS feed.
 
+### Advanced use
 This command will serve the static page on your local machine. http://localhost:4000
 ```sh
 bundle exec jekyll serve
@@ -76,9 +79,9 @@ Now upload the contents of the _site/ directory to your webserver.
 Copy the bash script 'build-n-rsync.sh' from the _script directory to the root of your photo-stream folder. 
 Fill in the required credentials & run the script. It will build & upload your site. 
 
-## Customize
+## Links
 
-### Basics
+### Basic links
 
 First thing you want to do is edit a couple of things in `/_config.yml`:
 
@@ -97,7 +100,7 @@ First thing you want to do is edit a couple of things in `/_config.yml`:
 
 Don't include the `@`-part of your social handles. By default links to your Github and Instagram profiles are hidden. You can uncomment these by going into `/index.html`. There, you can also add links to wherever you want. Just add more `<li>`'s with `class="link"` to the `<ul class="links">` list.
 
-### Advanced
+### Advanced links
 
 Before publishing your website, Jekyll will resize your photos into 3 different buckets:
 

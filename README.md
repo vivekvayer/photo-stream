@@ -3,7 +3,7 @@
 # Photo Stream -Your photos and data belong to you. Own it.
 
 ## WHAT is it?
-- A home for your photos like [maxvoltar.photo](https://maxvoltar.photo) and these [examples](#examples)
+- A home for your photos [maxvoltar.photo](https://maxvoltar.photo) and these [examples](#examples)
 - Open Source code developed by [@maxvoltar](https://twitter.com/maxvoltar) and [friends](#credits)who DO NOT monetize off Photo Stream. 
 
 ## WHY use it?

@@ -3,32 +3,26 @@
 # Photo Stream -Your photos and data belong to you. Own it.
 
 ## WHAT is it?
-- A home for your photos. 
-- An Open Source project developed by [@maxvoltar](https://twitter.com/maxvoltar) and [friends](#credits). 
-- [@maxvoltar](https://twitter.com/maxvoltar) DOES NOT monetize off Photo Stream. 
-- A sample site using Photo Stream [maxvoltar.photo](https://maxvoltar.photo). Click for more [examples](#examples)
+- A home for your photos like [maxvoltar.photo](https://maxvoltar.photo) and these [examples](#examples)
+- Open Source code developed by [@maxvoltar](https://twitter.com/maxvoltar) and [friends](#credits). [@maxvoltar](https://twitter.com/maxvoltar) DOES NOT monetize off Photo Stream. 
 
 ## WHY use it?
-- [A free tool]
-- An alternative to WordPress.org
-- Use Photo Stream and engage directly with the development team! 
-- Become familiar with Github; a key toolkit in the world of development 
-
+- Photo Stream is free.
+- An alternative to WordPress.org.
+- Its a new tool with a tight knit community; engage and contribute with input.
+- Become familiar with Github; a key toolkit in the world of development.
 
 ## HOW to install?
-- [The easy way](#the-easy-way)
-- [The slightly-less-easy-but-still-totally-doable way](#the-slightly-less-easy-but-still-totally-doable-way)
+- [The easy way](#The-easy-way-because-why-complicate-things?)
+- [The techy way](#the-slightly-less-easy-but-still-totally-doable-way)
 
 ## HOW to use?
-- [How to use](#how-to-use)
 - [Customize](#customize)
     - [Basics](#basics)
     - [Advanced](#advanced)
-- [Credits](#credits)
+    
+## Micellaneous
 - [Known issues](#known-issues)
-
-- [Examples](#examples)
-
 - [Features](#features)
 
 ## Features
@@ -54,8 +48,6 @@
 5. In your build & deploy settings, set "Build command" to `jekyll build` and "Publish directory" to `_site/`.
 6. Thats it. You do not need to follow anything further below!
 
-## Enter details of your Twitter, Instagram etc
-
 ### Basics
 
 First thing you want to do is edit a couple of things in `/_config.yml`:
@@ -75,7 +67,7 @@ First thing you want to do is edit a couple of things in `/_config.yml`:
 
 Don't include the `@`-part of your social handles. By default links to your Github and Instagram profiles are hidden. You can uncomment these by going into `/index.html`. There, you can also add links to wherever you want. Just add more `<li>`'s with `class="link"` to the `<ul class="links">` list.
 
-### Ok ok ....here is a slightly-less-easy-but-still-totally-doable way
+### here is a slightly-less-easy-but-still-totally-doable way
 
 Check to see if you have Ruby installed (`ruby -v`). If you don't, you can follow the installation instructions provided [here](https://www.ruby-lang.org/en/documentation/installation/).
 

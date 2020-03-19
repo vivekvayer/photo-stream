@@ -6,7 +6,7 @@
 - An Open Source project developed by [@maxvoltar](https://twitter.com/maxvoltar) and [friends](#credits). 
 - @maxvoltar and friends DO NOT monetize from Photo Stream. 
 
-Why use it?
+# Photo Stream - Why use it?
 - It is free to use. 
 - [It takes 3 steps to set up a site](#how-to-install)  
 

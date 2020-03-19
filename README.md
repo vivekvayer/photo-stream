@@ -25,18 +25,6 @@
 - [Known issues](#known-issues)
 - [Features](#features)
 
-## Features
-
-- Lazy loading
-- Only load larger resolutions when needed (to save on bandwidth)
-- Photo tints
-- Keyboard shortcuts
-- Unique URL's for photos
-- RSS feed (Which you can plug into [IFTTT](https://ifttt.com) and set up auto-posting to most social networks, like I've done [here](https://twitter.com/maxvoltar_photo). Make sure you select "Post a tweet with image" when setting it up to embed the photo.)
-- Drag, drop, commit workflow ([learn more about how to add photos to your stream](https://github.com/maxvoltar/photo-stream#how-to-use))
-- Optimized light and dark themes (auto-enabled depending on your OS preferences)
-- Optional: Links to your social networks
-
 ## The easy way
 
 1. Fork this repo
@@ -114,6 +102,19 @@ Before publishing your website, Jekyll will resize your photos into 3 different 
 - `/photos/large`: These are only shown when a user navigates to a photo page. By default these are resized to a maximum of 2048 wide and 2048 tall. If you wish, you can change these by changing the values in `/_config.yml` (by default they look something like this: `resize_to_limit: [2048, 2048]`).
 - `/photos/thumbnail`: These are used in the grid. Photo Stream will load all thumbnails above the fold, then more as you scroll down; all to save bandwidth. Standard size for these is 640 by 640 (max), but you can also change this if needed.
 - `/photos/tint`: What you see while the page loads its first batch of thumbnails, also used as the background for photo pages. **⚠️ Do not make changes to the tint versions in your config file.**
+
+## Features
+
+- Lazy loading
+- Only load larger resolutions when needed (to save on bandwidth)
+- Photo tints
+- Keyboard shortcuts
+- Unique URL's for photos
+- RSS feed (Which you can plug into [IFTTT](https://ifttt.com) and set up auto-posting to most social networks, like I've done [here](https://twitter.com/maxvoltar_photo). Make sure you select "Post a tweet with image" when setting it up to embed the photo.)
+- Drag, drop, commit workflow ([learn more about how to add photos to your stream](https://github.com/maxvoltar/photo-stream#how-to-use))
+- Optimized light and dark themes (auto-enabled depending on your OS preferences)
+- Optional: Links to your social networks
+
 
 ## Examples
 

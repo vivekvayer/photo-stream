@@ -17,8 +17,8 @@
 - [The techy way](#The-techy-way)
 
 ## HOW to use?
-   - [Basics](#basics)
-   - [Advanced](#advanced)
+   - [Basics user instructions](#basics)
+   - [Advanced user instructions](#advanced)
     
 ## Micellaneous
 - [Known issues](#known-issues)

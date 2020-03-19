@@ -19,7 +19,11 @@
 ## HOW to use?
    - [Basic user instructions](#basic-user-instructions)
    - [Advanced user instructions](#advanced-user-instructions)
-    
+
+## Linking to external sites
+   - [Basic links](#basic-links)
+   - [Advanced links](#advanced-links)
+   
 ## Micellaneous
 - [Known issues](#known-issues)
 - [Features](#features)

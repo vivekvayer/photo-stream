@@ -1,22 +1,24 @@
 ![Photo Stream Social Preview](https://repository-images.githubusercontent.com/244708193/8710f480-6010-11ea-9fd6-41bdaea7ab02)
 
-# Photo Stream - take ownership of your photos
+# Photo Stream -Your photos and data belong to you. Own it.
+
 ## WHAT is it?
-- A home for your photos.  
+- A home for your photos. 
 - An Open Source project developed by [@maxvoltar](https://twitter.com/maxvoltar) and [friends](#credits). 
 - [@maxvoltar](https://twitter.com/maxvoltar) DOES NOT monetize off Photo Stream. 
-- Here is a sample site [maxvoltar.photo](https://maxvoltar.photo). Click for more [examples](#examples)
+- A sample site using Photo Stream [maxvoltar.photo](https://maxvoltar.photo). Click for more [examples](#examples)
 
 ## WHY use it?
-- [It is free] 
-- Share your photos independent of social media eg. Facebook, Instagram and Snapchat
-- Take control of your photos
-- Choose who hosts your photos
+- [A free tool]
+- An alternative to WordPress.org; you engage with a tight knit community who just built it
+- Start to use Github; a key toolkit in the world of development 
+
 
 ## HOW to install?
-- [How to Install](#how-to-install)
-    - [The easy way](#the-easy-way)
-    - [The slightly-less-easy-but-still-totally-doable way](#the-slightly-less-easy-but-still-totally-doable-way)
+- [The easy way](#the-easy-way)
+- [The slightly-less-easy-but-still-totally-doable way](#the-slightly-less-easy-but-still-totally-doable-way)
+
+## HOW to use?
 - [How to use](#how-to-use)
 - [Customize](#customize)
     - [Basics](#basics)
@@ -39,14 +41,6 @@
 - Drag, drop, commit workflow ([learn more about how to add photos to your stream](https://github.com/maxvoltar/photo-stream#how-to-use))
 - Optimized light and dark themes (auto-enabled depending on your OS preferences)
 - Optional: Links to your social networks
-
-## Why?
-
-1) Share your photos independent of social media eg. Facebook, Instagram and Snapchat
-2) Take control of your photos
-3) Choose who hosts your photos
-
-
 
 ## How to install
 

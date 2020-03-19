@@ -14,7 +14,7 @@
 
 ## HOW to install?
 - [The easy way](#The-easy-way)
-- [The techy way](#the-slightly-less-easy-but-still-totally-doable-way)
+- [The techy way](#the-techy-way)
 
 ## HOW to use?
 - [Customize](#customize)
@@ -65,7 +65,7 @@ First thing you want to do is edit a couple of things in `/_config.yml`:
 
 Don't include the `@`-part of your social handles. By default links to your Github and Instagram profiles are hidden. You can uncomment these by going into `/index.html`. There, you can also add links to wherever you want. Just add more `<li>`'s with `class="link"` to the `<ul class="links">` list.
 
-### here is a slightly-less-easy-but-still-totally-doable way
+### the-techy-way
 
 Check to see if you have Ruby installed (`ruby -v`). If you don't, you can follow the installation instructions provided [here](https://www.ruby-lang.org/en/documentation/installation/).
 

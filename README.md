@@ -26,7 +26,7 @@
 - [Features](#features)
 
 
-
+## How to Install?
 ### The easy way
 
 1. Fork this repo
@@ -57,25 +57,6 @@ xcode-select --install
 brew install glib vips
 ```
 
-### Basics
-
-First thing you want to do is edit a couple of things in `/_config.yml`:
-
-- `title`: The title of your photo stream
-- `email`: Your email address (this line is optional, you can remove it)
-- `author`
-    - `name`: Your name
-    - `email`: Your email address (optional)
-    - `website`: Your website (could be the address of this photo stream)
-- `description`: Description of your photo stream
-- `baseurl`: Should be `""` **⚠️ Do not change unless you know what you're doing**
-- `url`: Where will this photo stream live (example: `https://maxvoltar.photo`)
-- `twitter_username`: Your Twitter username
-- `github_username`: Your Github username
-- `instagram_username`: Your Instagram username
-
-Don't include the `@`-part of your social handles. By default links to your Github and Instagram profiles are hidden. You can uncomment these by going into `/index.html`. There, you can also add links to wherever you want. Just add more `<li>`'s with `class="link"` to the `<ul class="links">` list.
-
 ## How to use
 
 Put your photos (not resized) in the `photos/originals` directory. Optionally you can give them a name, which will appear as the title of the photo page and in the RSS feed.
@@ -96,6 +77,25 @@ Copy the bash script 'build-n-rsync.sh' from the _script directory to the root o
 Fill in the required credentials & run the script. It will build & upload your site. 
 
 ## Customize
+
+### Basics
+
+First thing you want to do is edit a couple of things in `/_config.yml`:
+
+- `title`: The title of your photo stream
+- `email`: Your email address (this line is optional, you can remove it)
+- `author`
+    - `name`: Your name
+    - `email`: Your email address (optional)
+    - `website`: Your website (could be the address of this photo stream)
+- `description`: Description of your photo stream
+- `baseurl`: Should be `""` **⚠️ Do not change unless you know what you're doing**
+- `url`: Where will this photo stream live (example: `https://maxvoltar.photo`)
+- `twitter_username`: Your Twitter username
+- `github_username`: Your Github username
+- `instagram_username`: Your Instagram username
+
+Don't include the `@`-part of your social handles. By default links to your Github and Instagram profiles are hidden. You can uncomment these by going into `/index.html`. There, you can also add links to wherever you want. Just add more `<li>`'s with `class="link"` to the `<ul class="links">` list.
 
 ### Advanced
 

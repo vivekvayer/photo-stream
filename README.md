@@ -18,7 +18,7 @@
 
 ## HOW to use?
 - [Customize](#customize)
-    - [Basics](#basics)
+    - [Basics](#basics-use)
     - [Advanced](#advanced)
     
 ## Micellaneous

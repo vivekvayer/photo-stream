@@ -4,7 +4,7 @@
 ## WHAT is it?
 - A home for your photos.  
 - An Open Source project developed by [@maxvoltar](https://twitter.com/maxvoltar) and [friends](#credits). 
-- [@maxvoltar] DOES NOT monetize in anyway off Photo Stream. 
+- [@maxvoltar](https://twitter.com/maxvoltar) DOES NOT monetize off Photo Stream. 
 - Here is a sample site [maxvoltar.photo](https://maxvoltar.photo). Click for more [examples](#examples)
 
 ## WHY use it?

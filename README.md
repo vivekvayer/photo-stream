@@ -10,8 +10,9 @@
 
 ## WHY use it?
 - [A free tool]
-- An alternative to WordPress.org; you engage with a tight knit community who just built it
-- Start to use Github; a key toolkit in the world of development 
+- An alternative to WordPress.org
+- Use Photo Stream and engage directly with the development team! 
+- Become familiar with Github; a key toolkit in the world of development 
 
 
 ## HOW to install?

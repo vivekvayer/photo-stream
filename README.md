@@ -8,7 +8,7 @@ Photo Stream is Open Source Software developed by [@maxvoltar](https://twitter.c
 
 Why use it?
 It is absolutely free to use. 
-It takes 3 steps to set up a site (#how-to-install)
+It takes 3 steps to set up a site (#how-to-install)  
 
 - [Examples](#examples)
 - [Features](#features)

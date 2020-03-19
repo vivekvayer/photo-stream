@@ -39,7 +39,7 @@
 
 ## How to install
 
-### The easy way - because why complicate things?
+### The easy way because why complicate things?
 
 1. Fork this repo
 2. Clear the `photos/original` directory DETAIL HOW

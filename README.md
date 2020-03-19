@@ -1,14 +1,14 @@
 ![Photo Stream Social Preview](https://repository-images.githubusercontent.com/244708193/8710f480-6010-11ea-9fd6-41bdaea7ab02)
 
-# Photo Stream
+# Photo Stream - WHAT is it?
 
-- Photo Stream is a home for your photos. Thats it. 
-- Photo Stream is an Open Source project developed by [@maxvoltar](https://twitter.com/maxvoltar) and [friends](#credits). 
-- @maxvoltar and friends DO NOT monetize from Photo Stream. This is a fun project!
+- A home for your photos.  
+- An Open Source project developed by [@maxvoltar](https://twitter.com/maxvoltar) and [friends](#credits). 
+- @maxvoltar and friends DO NOT monetize from Photo Stream. 
 
 Why use it?
 - It is free to use. 
-- It takes 3 steps to set up a site (#how-to-install)  
+- [It takes 3 steps to set up a site](#how-to-install)  
 
 - [Examples](#examples)
 - [Features](#features)

@@ -58,7 +58,7 @@ brew install glib vips
 
 ## How to use
 
-### Basics User Instructions
+### Basic User Instructions
 - Add a photo (not resized) in the `photos/originals` directory.
 - Optionally name, which will appear as the title of the photo page and in the RSS feed.
 

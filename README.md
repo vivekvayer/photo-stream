@@ -4,7 +4,7 @@
 
 ## WHAT is it?
 - A home for your photos like [maxvoltar.photo](https://maxvoltar.photo) and these [examples](#examples)
-- Open Source code developed by [@maxvoltar](https://twitter.com/maxvoltar) and [friends](#credits). [friends](#credits) DO NOT monetize off Photo Stream. 
+- Open Source code developed by [@maxvoltar](https://twitter.com/maxvoltar) and [friends](#credits)who DO NOT monetize off Photo Stream. 
 
 ## WHY use it?
 - Photo Stream is free.
@@ -37,9 +37,7 @@
 - Optimized light and dark themes (auto-enabled depending on your OS preferences)
 - Optional: Links to your social networks
 
-## How to install
-
-### The easy way because why complicate things?
+## The easy way because why complicate things?
 
 1. Fork this repo
 2. Clear the `photos/original` directory DETAIL HOW

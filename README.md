@@ -17,8 +17,8 @@
 - [The techy way](#The-techy-way)
 
 ## HOW to use?
-   - [Basics user instructions](#basics)
-   - [Advanced user instructions](#advanced)
+   - [Basic user instructions](#basic-user-instructions)
+   - [Advanced user instructions](#advanced-user-instructions)
     
 ## Micellaneous
 - [Known issues](#known-issues)
@@ -58,11 +58,11 @@ brew install glib vips
 
 ## How to use
 
-### Basics
+### Basics User Instructions
 - Add a photo (not resized) in the `photos/originals` directory.
 - Optionally name, which will appear as the title of the photo page and in the RSS feed.
 
-### Advanced
+### Advanced User Instructions
 This command will serve the static page on your local machine. http://localhost:4000
 ```sh
 bundle exec jekyll serve

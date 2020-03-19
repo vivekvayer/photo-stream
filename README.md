@@ -1,18 +1,18 @@
 ![Photo Stream Social Preview](https://repository-images.githubusercontent.com/244708193/8710f480-6010-11ea-9fd6-41bdaea7ab02)
 
-# Photo Stream - WHAT is it?
-
+# Photo Stream - take ownership of your photos
+## WHAT is it?
 - A home for your photos.  
 - An Open Source project developed by [@maxvoltar](https://twitter.com/maxvoltar) and [friends](#credits). 
-- @maxvoltar and friends DO NOT monetize from Photo Stream. 
+- @maxvoltar DOES NOT monetize in anyway off Photo Stream. 
+- Here is a sample site [maxvoltar.photo](https://maxvoltar.photo). Click for more [examples](#examples)
 
-# Photo Stream - Why use it?
-- It is free to use. 
-- [It takes 3 steps to set up a site](#how-to-install)  
-
-- [Examples](#examples)
+## WHY use it?
+- [It is free] 
 - [Features](#features)
 - [Why?](#why)
+
+## HOW to use it?
 - [How to Install](#how-to-install)
     - [The easy way](#the-easy-way)
     - [The slightly-less-easy-but-still-totally-doable way](#the-slightly-less-easy-but-still-totally-doable-way)
@@ -23,14 +23,9 @@
 - [Credits](#credits)
 - [Known issues](#known-issues)
 
-## Examples
+- [Examples](#examples)
 
-- [maxvoltar.photo](https://maxvoltar.photo)
-- [joeyabanks.photo](https://joeyabanks.photo)
-- [photos.alexbaldwin.com](https://photos.alexbaldwin.com)
-- [scotts.camera](https://scotts.camera)
-- [jad.photos](https://jad.photos)
-- [photo.silvandaehn.com](https://photo.silvandaehn.com/)
+
 
 ## Features
 
@@ -133,6 +128,15 @@ Before publishing your website, Jekyll will resize your photos into 3 different 
 - `/photos/large`: These are only shown when a user navigates to a photo page. By default these are resized to a maximum of 2048 wide and 2048 tall. If you wish, you can change these by changing the values in `/_config.yml` (by default they look something like this: `resize_to_limit: [2048, 2048]`).
 - `/photos/thumbnail`: These are used in the grid. Photo Stream will load all thumbnails above the fold, then more as you scroll down; all to save bandwidth. Standard size for these is 640 by 640 (max), but you can also change this if needed.
 - `/photos/tint`: What you see while the page loads its first batch of thumbnails, also used as the background for photo pages. **⚠️ Do not make changes to the tint versions in your config file.**
+
+## Examples
+
+- [maxvoltar.photo](https://maxvoltar.photo)
+- [joeyabanks.photo](https://joeyabanks.photo)
+- [photos.alexbaldwin.com](https://photos.alexbaldwin.com)
+- [scotts.camera](https://scotts.camera)
+- [jad.photos](https://jad.photos)
+- [photo.silvandaehn.com](https://photo.silvandaehn.com/)
 
 ## Credits
 

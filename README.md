@@ -9,10 +9,11 @@
 
 ## WHY use it?
 - [It is free] 
-- [Features](#features)
-- [Why?](#why)
+- Share your photos independent of social media eg. Facebook, Instagram and Snapchat
+- Take control of your photos
+- Choose who hosts your photos
 
-## HOW to use it?
+## HOW to install?
 - [How to Install](#how-to-install)
     - [The easy way](#the-easy-way)
     - [The slightly-less-easy-but-still-totally-doable way](#the-slightly-less-easy-but-still-totally-doable-way)
@@ -25,7 +26,7 @@
 
 - [Examples](#examples)
 
-
+- [Features](#features)
 
 ## Features
 
@@ -49,7 +50,7 @@
 
 ## How to install
 
-### The easy way - life is complicated enough right?!!
+### The easy way - because why complicate things?
 
 1. Fork this repo
 2. Clear the `photos/original` directory DETAIL HOW

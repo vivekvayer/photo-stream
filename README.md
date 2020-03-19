@@ -13,7 +13,7 @@
 - Become familiar with Github; a key toolkit in the world of development.
 
 ## HOW to install?
-- [The easy way](#The-easy-way-because-why-complicate-things?)
+- [The easy way](#The-easy-way)
 - [The techy way](#the-slightly-less-easy-but-still-totally-doable-way)
 
 ## HOW to use?
@@ -37,7 +37,7 @@
 - Optimized light and dark themes (auto-enabled depending on your OS preferences)
 - Optional: Links to your social networks
 
-## The easy way because why complicate things?
+## The easy way?
 
 1. Fork this repo
 2. Clear the `photos/original` directory DETAIL HOW

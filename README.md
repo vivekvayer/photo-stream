@@ -74,11 +74,11 @@ bundle exec jekyll build
 ```
 Now upload the contents of the _site/ directory to your webserver.
 
-### Automating the build & upload with rsync
+#### Automating the build & upload with rsync
 Copy the bash script 'build-n-rsync.sh' from the _script directory to the root of your photo-stream folder. 
 Fill in the required credentials & run the script. It will build & upload your site. 
 
-## Links
+## Linking to external sites
 
 ### Basic links
 

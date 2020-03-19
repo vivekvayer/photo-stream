@@ -3,14 +3,14 @@
 # Photo Stream -Your photos and data belong to you. Own it.
 
 ## WHAT is it?
-- A home for your photos [maxvoltar.photo](https://maxvoltar.photo) and these [examples](#examples)
-- Open Source code developed by [@maxvoltar](https://twitter.com/maxvoltar) and [friends](#credits)who DO NOT monetize off Photo Stream. 
+- A home for your photos; browse some [examples](#examples)
+- Open Source code developed by [@maxvoltar](https://twitter.com/maxvoltar) and [friends](#credits) who DO NOT monetize off Photo Stream. 
 
 ## WHY use it?
 - Photo Stream is free.
 - An alternative to WordPress.org.
-- Its a new tool with a tight knit community; engage and contribute with input.
-- Become familiar with Github; a key toolkit in the world of development.
+- Its a new tool with a tight knit community; engage and contribute.
+- Photo Stream sits on Github; a key toolkit in the world of development. Learn to use it!
 
 ## HOW to install?
 - [The easy way](#The-easy-way)

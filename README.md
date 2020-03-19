@@ -2,13 +2,13 @@
 
 # Photo Stream
 
-Photo stream is a home for your photos. Simple. 
+Photo Stream is a home for your photos. Thats it. 
+Photo Stream is Open Source Software developed by [@maxvoltar](https://twitter.com/maxvoltar) and [friends](#credits). 
+@maxvoltar and friends do not monetize Photo Stream. This is a fun project.
 
-The tool is developed by [@maxvoltar](https://twitter.com/maxvoltar) and [friends](#credits). 
-
-You upload photos to Github - this is where the photos are stored. 
-
-You choose the company to host your site. In my case I chose 
+Why use it?
+It is absolutely free to use. 
+It takes 3 steps to set up a site (#how-to-install)
 
 - [Examples](#examples)
 - [Features](#features)
@@ -46,20 +46,45 @@ You choose the company to host your site. In my case I chose
 
 ## Why?
 
-We like to take photos and share them. Problem is it's hard to really own your photos and how they're represented across social media these days, so we set out to make a place for them. You host it yourself, wherever you want (Netlify, Github Pages...), you're in control.
+1) Share your photos independent of social media eg. Facebook, Instagram and Snapchat
+2) Take control of your photos
+3) Choose who hosts your photos
+
+
 
 ## How to install
 
-### The easy way
+### The easy way - life is complicated enough right?!!
 
 1. Fork this repo
-2. Clear the `photos/original` directory
-3. Add your own photos
+2. Clear the `photos/original` directory DETAIL HOW
+3. Add your own photos DO NOT WORRY ABOUT deleting
 4. Deploy your forked copy to [Netlify](https://netlify.com) (free by default, you can add your own domain and analytics for a reasonable price)
 5. In your build & deploy settings, set "Build command" to `jekyll build` and "Publish directory" to `_site/`.
-6. Enjoy your very own photo stream!
+6. Thats it. You do not need to follow anything further below!
 
-### The slightly-less-easy-but-still-totally-doable way
+## Enter details of your Twitter, Instagram etc
+
+### Basics
+
+First thing you want to do is edit a couple of things in `/_config.yml`:
+
+- `title`: The title of your photo stream
+- `email`: Your email address (this line is optional, you can remove it)
+- `author`
+    - `name`: Your name
+    - `email`: Your email address (optional)
+    - `website`: Your website (could be the address of this photo stream)
+- `description`: Description of your photo stream
+- `baseurl`: Should be `""` **⚠️ Do not change unless you know what you're doing**
+- `url`: Where will this photo stream live (example: `https://maxvoltar.photo`)
+- `twitter_username`: Your Twitter username
+- `github_username`: Your Github username
+- `instagram_username`: Your Instagram username
+
+Don't include the `@`-part of your social handles. By default links to your Github and Instagram profiles are hidden. You can uncomment these by going into `/index.html`. There, you can also add links to wherever you want. Just add more `<li>`'s with `class="link"` to the `<ul class="links">` list.
+
+### Ok ok ....here is a slightly-less-easy-but-still-totally-doable way
 
 Check to see if you have Ruby installed (`ruby -v`). If you don't, you can follow the installation instructions provided [here](https://www.ruby-lang.org/en/documentation/installation/).
 
@@ -100,25 +125,6 @@ Copy the bash script 'build-n-rsync.sh' from the _script directory to the root o
 Fill in the required credentials & run the script. It will build & upload your site. 
 
 ## Customize
-
-### Basics
-
-First thing you want to do is edit a couple of things in `/_config.yml`:
-
-- `title`: The title of your photo stream
-- `email`: Your email address (this line is optional, you can remove it)
-- `author`
-    - `name`: Your name
-    - `email`: Your email address (optional)
-    - `website`: Your website (could be the address of this photo stream)
-- `description`: Description of your photo stream
-- `baseurl`: Should be `""` **⚠️ Do not change unless you know what you're doing**
-- `url`: Where will this photo stream live (example: `https://maxvoltar.photo`)
-- `twitter_username`: Your Twitter username
-- `github_username`: Your Github username
-- `instagram_username`: Your Instagram username
-
-Don't include the `@`-part of your social handles. By default links to your Github and Instagram profiles are hidden. You can uncomment these by going into `/index.html`. There, you can also add links to wherever you want. Just add more `<li>`'s with `class="link"` to the `<ul class="links">` list.
 
 ### Advanced
 

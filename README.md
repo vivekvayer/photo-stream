@@ -25,7 +25,9 @@
 - [Known issues](#known-issues)
 - [Features](#features)
 
-## The easy way
+
+
+### The easy way
 
 1. Fork this repo
 2. Clear the `photos/original` directory DETAIL HOW
@@ -34,7 +36,7 @@
 5. In your build & deploy settings, set "Build command" to `jekyll build` and "Publish directory" to `_site/`.
 6. Thats it. You do not need to follow anything further below!
 
-## the techy way
+### the techy way
 
 Check to see if you have Ruby installed (`ruby -v`). If you don't, you can follow the installation instructions provided [here](https://www.ruby-lang.org/en/documentation/installation/).
 

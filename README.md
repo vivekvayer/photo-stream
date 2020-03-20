@@ -10,8 +10,8 @@
 ## WHY use it?
 - Photo Stream is free.
 - An alternative to WordPress.org.
-- Its a new tool with a tight knit community; engage and contribute.
-- Photo Stream sits on Github; a key toolkit in the world of development. Learn to use it!
+- Its a new tool with a tight knit community; join to engage and contribute.
+- Photo Stream sits on Github; a key toolkit in the world of development. Learn to use Github!
 
 ## HOW to install?
 - [The easy way](#The-easy-way)
@@ -33,12 +33,12 @@
 ## How to Install?
 ### The easy way
 
-1. Fork this repo
-2. Clear the `photos/original` directory DETAIL HOW
-3. Add your own photos DO NOT WORRY ABOUT deleting
-4. Deploy your forked copy to [Netlify](https://netlify.com) (free by default, you can add your own domain and analytics for a reasonable price)
-5. In your build & deploy settings, set "Build command" to `jekyll build` and "Publish directory" to `_site/`.
-6. Thats it. You do not need to follow anything further below!
+1. Click on Fork (top right side) to automatically duplicate the code to your own Github.
+2. Clear the `photos/original` directory (I deleted each photo, but feel free to do it faster if any way you know how).
+3. Add your own photos ensuring that they are jpg files and NOT JPG files.
+4. Deploy your forked code to [Netlify](https://netlify.com). Netlify is free by default. Upgrade if you want to your own domain and analytics)
+5. PS this should be set. Double check. In your build & deploy settings, set "Build command" to `jekyll build` and "Publish directory" to `_site/`.
+6. Thats it. Share your link with friends!
 
 ### The techy way
 
@@ -65,7 +65,8 @@ brew install glib vips
 
 ### Basic User Instructions
 - Add a photo (not resized) in the `photos/originals` directory.
-- Optionally name, which will appear as the title of the photo page and in the RSS feed.
+- Optionally you can name each photo, which will appear as the title of the photo page and in the RSS feed.
+- Thats it! Your hosting service should periodically update based on the photos/original directory in your Github 
 
 ### Advanced User Instructions
 This command will serve the static page on your local machine. http://localhost:4000
@@ -87,7 +88,7 @@ Fill in the required credentials & run the script. It will build & upload your s
 
 ### Basic links
 
-First thing you want to do is edit a couple of things in `/_config.yml`:
+Edit limited items in the file `/_config.yml`:
 
 - `title`: The title of your photo stream
 - `email`: Your email address (this line is optional, you can remove it)

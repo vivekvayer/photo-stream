@@ -11,7 +11,7 @@
 - Photo Stream is free.
 - An alternative to WordPress.org.
 - Its a new tool with a tight knit community; join to engage and contribute.
-- Photo Stream sits on Github; a key toolkit in the world of development. Learn to use Github!
+- Photo Stream sits on Github; a key toolkit in the world of development. Learn to use Github by using Photo Stream!
 
 ## HOW to install?
 - [The easy way](#The-easy-way)

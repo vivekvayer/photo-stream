@@ -34,10 +34,10 @@
 ### The easy way
 
 1. Click on Fork (top right side) to automatically duplicate the code to your own Github.
-2. Clear the `photos/original` directory (I deleted each photo, but feel free to do it faster in any way you know how).
+2. Clear the `photos/original` directory (I deleted photos individually, but feel free to do it faster in any way you know how).
 3. Add your own photos ensuring that they are jpg files and NOT JPG files.
 4. Deploy your forked code to [Netlify](https://netlify.com). Netlify is free by default. Upgrade if you want to your own domain and analytics)
-5. NOTE this is a double check. In your build & deploy settings, set "Build command" to `jekyll build` and "Publish directory" to `_site/`.
+5. Perform a check. In your build & deploy settings, ensure that "Build command" is set to `jekyll build` and "Publish directory"is set to `_site/`.
 6. Thats it. Share your link with friends!
 
 ### The techy way
@@ -66,7 +66,8 @@ brew install glib vips
 ### Basic User Instructions
 - Add a photo (not resized) in the `photos/originals` directory.
 - Optionally you can name each photo, which will appear as the title of the photo page and in the RSS feed.
-- Thats it! Your hosting service should periodically update based on the photos/original directory in your Github 
+- Thats it! Your hosting service should periodically update based on the photos/original directory in your Github.
+- If you dont see a photo being updated immediately, give it say 30 minutes before you investigate why.
 
 ### Advanced User Instructions
 This command will serve the static page on your local machine. http://localhost:4000

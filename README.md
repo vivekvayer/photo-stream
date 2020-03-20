@@ -4,7 +4,8 @@
 
 ## WHAT is it?
 - A home for your photos; browse some [examples](#examples)
-- Open Source code developed by [@maxvoltar](https://twitter.com/maxvoltar) and [friends](#credits) who DO NOT monetize off Photo Stream. 
+- Open Source code developed by [@maxvoltar](https://twitter.com/maxvoltar) and [friends](#credits) who DO NOT monetize off Photo Stream.
+- Created by Tim to learn about Open Source. This is not a tool with 3rd party support. You own your code!
 
 ## WHY use it?
 - Photo Stream is free.

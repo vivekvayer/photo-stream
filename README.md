@@ -34,10 +34,10 @@
 ### The easy way
 
 1. Click on Fork (top right side) to automatically duplicate the code to your own Github.
-2. Clear the `photos/original` directory (I deleted each photo, but feel free to do it faster if any way you know how).
+2. Clear the `photos/original` directory (I deleted each photo, but feel free to do it faster in any way you know how).
 3. Add your own photos ensuring that they are jpg files and NOT JPG files.
 4. Deploy your forked code to [Netlify](https://netlify.com). Netlify is free by default. Upgrade if you want to your own domain and analytics)
-5. PS this should be set. Double check. In your build & deploy settings, set "Build command" to `jekyll build` and "Publish directory" to `_site/`.
+5. NOTE this is a double check. In your build & deploy settings, set "Build command" to `jekyll build` and "Publish directory" to `_site/`.
 6. Thats it. Share your link with friends!
 
 ### The techy way
